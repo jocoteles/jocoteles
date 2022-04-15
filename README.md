@@ -1,4 +1,4 @@
-- 👋 Hi, I’m João Teles de Carvalho Neto, full professor at Universidade Federal de São Carlos - Brazil
+- 👋 Hi, I’m [João Teles de Carvalho Neto](https://www.researchgate.net/profile/Joao-Teles-De-Carvalho-Neto), full professor at Universidade Federal de São Carlos - Brazil
 - 👀 I’m interested in Physics and Physics Teaching
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Physics Teaching tecnologies
